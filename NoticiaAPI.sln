@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoticiaAPI", "NoticiaAPI\NoticiaAPI.csproj", "{F820031A-9BDE-41F1-A190-0A3F98E17F92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F820031A-9BDE-41F1-A190-0A3F98E17F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F820031A-9BDE-41F1-A190-0A3F98E17F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F820031A-9BDE-41F1-A190-0A3F98E17F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F820031A-9BDE-41F1-A190-0A3F98E17F92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5891519B-8A73-4631-B42C-DD0767CFADB9}
+	EndGlobalSection
+EndGlobal
